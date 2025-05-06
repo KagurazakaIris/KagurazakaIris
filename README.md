@@ -65,8 +65,5 @@
 ---
 
 <div align="center">
-  
-📝 もっと知りたい？ Feel free to connect!  
-📫 Contact: your-email@example.com
 
 </div>
