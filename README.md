@@ -5,8 +5,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;DevOps+Engineer;Lover+of+Clean+Code)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KagurazakaIris&show_icons=true&theme=tokyonight&hide_rank=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KagurazakaIris&layout=compact&theme=tokyonight)](https://github.com/KagurazakaIris)
+![GitHub stats](https://github-readme-stats-neon-chi-38.vercel.app/api?username=KagurazakaIris&show_icons=true&theme=tokyonight&hide_rank=false&count_private=true)
+[![Top Langs](https://github-readme-stats-neon-chi-38.vercel.app/api/top-langs/?username=KagurazakaIris&layout=compact&theme=tokyonight)](https://github.com/KagurazakaIris)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=KagurazakaIris)
 
