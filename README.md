@@ -3,43 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <title>KagurazakaIris | GitHub Portfolio</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      background-color: #0d1117;
-      color: #c9d1d9;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      margin: 0;
-      padding: 2rem;
-    }
-    header, section, footer {
-      max-width: 900px;
-      margin: 0 auto 4rem;
-      text-align: center;
-    }
-    h1, h2 {
-      color: #58a6ff;
-    }
-    hr {
-      border: none;
-      border-top: 1px solid #30363d;
-      margin: 3rem 0;
-    }
-    .icon-row {
-      display: flex;
-      justify-content: center;
-      flex-wrap: wrap;
-      gap: 12px;
-      margin: 1rem 0;
-    }
-    .icon-row img {
-      height: 28px;
-    }
-    .stats img {
-      max-width: 100%;
-      margin: 0.5rem 0;
-    }
-  </style>
 </head>
 <body>
 
