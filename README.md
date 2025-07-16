@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html lang="ja">
-<head>
-  <meta charset="UTF-8">
-  <title>KagurazakaIris | GitHub Portfolio</title>
-</head>
 <body>
-
   <header>
     <h1>✨ こんにちは、Welcome to my GitHub ✨</h1>
     <img 
